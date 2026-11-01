@@ -1,6 +1,34 @@
-# 💫 About Me:
-# 👋 Hi, I'm Hritik Kumar!<br><br>🎓 MCA 1st Semester Student at **Shobhit University, Meerut**  <br>💻 Aspiring Full Stack Developer | 🚀 Problem Solver | 🧠 DSA Enthusiast<br><br>### 🙋‍♂️ About Me<br>- 🌱 Currently learning **Full Stack Web Development** and strengthening my **Data Structures & Algorithms (DSA)** skills.<br>- 💻 Love building web applications and exploring new technologies.<br>- ☕ Practicing problem-solving using **Java** and solving coding challenges on LeetCode.<br>- 🎨 Interested in creating responsive, user-friendly, and interactive websites.<br>- 🔍 Always curious to learn new things and improve my coding skills.<br>- 🎯 Goal: To become a skilled Full Stack Developer and build real-world projects.<br><br>### 🛠️ Tech Stack<br><br>- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Tailwind CSS<br>- ⚙️ Backend: Node.js, Express.js<br>- 🗄️ Database: MongoDB, MySQL<br>- ☕ Programming Languages: Java, C, C++<br>- 🔧 Tools: Git, GitHub, VS Code, Postman<br><br>### 🧠 Currently Focusing On<br>- 📚 Data Structures & Algorithms<br>- 💻 Full Stack Development<br>- 🏗️ Building real-world projects<br>- 🔥 Consistent coding and problem-solving<br><br>### ⚡ A Little More About Me<br>- 🚀 Believe in learning by building.<br>- 💡 Love turning ideas into projects.<br>- 📈 Focused on continuous improvement.<br>- 🤝 Open to collaboration, learning, and exciting opportunities.<br><br>### 💬 My Motto<br>**"Code. Learn. Build. Repeat. 🔁"**<br><br>⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+# 👋 Hi, I'm Hritik Kumar!
 
+🎓 MCA 1st Semester @ Shobhit University, Meerut  
+💻 Aspiring Full Stack Developer | 🧠 DSA Enthusiast
+
+### 🙋‍♂️ About Me
+- 🌱 Learning Full Stack Web Development.
+- ☕ Practicing DSA and problem-solving using Java.
+- 💻 Building projects with React.js and modern web technologies.
+- 🎯 Aiming to become a skilled Full Stack Developer.
+- 🚀 Always learning, building, and improving.
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Languages:** Java, C, C++
+- **Tools:** Git, GitHub, VS Code, Postman
+
+### 🧠 Currently Focusing On
+- 📚 Data Structures & Algorithms
+- 🌐 Full Stack Development
+- 🏗️ Real-world projects
+- 🔥 LeetCode problem-solving
+
+### ⚡ My Motto
+💡 *"Code. Learn. Build. Repeat. 🔁"*
+
+🤝 Open to collaboration and new opportunities.
+
+⭐ Thanks for visiting my profile!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shree_ram_s8942) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hritikk-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritik8113@gmail.com) 
