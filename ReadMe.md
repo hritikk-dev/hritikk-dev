@@ -1,34 +1,19 @@
-# 👋 Hi, I'm Hritik Kumar!
+# 👋 Hi, I'm Hritik Kumar
 
-🎓 MCA 1st Semester @ Shobhit University, Meerut  
-💻 Aspiring Full Stack Developer | 🧠 DSA Enthusiast
+---
 
 ### 🙋‍♂️ About Me
-- 🌱 Learning Full Stack Web Development.
-- ☕ Practicing DSA and problem-solving using Java.
-- 💻 Building projects with React.js and modern web technologies.
-- 🎯 Aiming to become a skilled Full Stack Developer.
-- 🚀 Always learning, building, and improving.
 
-### 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, MySQL
-- **Languages:** Java, C, C++
-- **Tools:** Git, GitHub, VS Code, Postman
+🌱 Learning Full Stack Web Development ,💡 Building real-world projects, ☕ Practicing DSA using Java , 🚀 Solving problems on LeetCode , 📚 Always learning new technologies
 
-### 🧠 Currently Focusing On
-- 📚 Data Structures & Algorithms
-- 🌐 Full Stack Development
-- 🏗️ Real-world projects
-- 🔥 LeetCode problem-solving
 
-### ⚡ My Motto
-💡 *"Code. Learn. Build. Repeat. 🔁"*
 
-🤝 Open to collaboration and new opportunities.
+### 📊 Current Focus
+
+🧩 Data Structures & Algorithms , 🌐 Full Stack Development , 🏗️ Project Building ,🔥 Consistent Coding
 
 ⭐ Thanks for visiting my profile!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_shree_ram_s8942) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-singh-s8942) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hritik8113@gmail.com) 
